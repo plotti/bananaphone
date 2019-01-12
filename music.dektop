@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Autostart-Script2
+Comment=Kommentar
+Type=Application
+Exec=sudo python /home/pi/test.py
+Terminal=true

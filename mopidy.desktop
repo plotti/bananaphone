@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Autostart-Script
+Comment=Kommentar
+Type=Application
+Exec=/home/pi/run_mopidy.sh
+Terminal=true
